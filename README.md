@@ -1,2 +1,2 @@
 # autohome_crawler
-scrap all models and bbs website
+Download car models's info and bbs news.
